@@ -8,7 +8,7 @@ A showcase Flutter application for listing Rick and Morty characters, with favor
 - 🗂️ Supports three state management solutions in a single app: **Provider**, **MobX**, and **GetX**
 - ⭐ Add/remove characters to favorites with beautiful animated transitions
 - 🔄 Pagination/infinite scroll for character list
-- 📱 Modern UI with dark & light theme toggle (with animated circle reveal)
+- 📱 Modern UI with dark & light theme toggle 
 - 🗃️ Offline cache for characters and favorites (using Hive)
 - 🧠 Shows snackbar notifications when favorites are added or removed, indicating which state management is used
 - 🏆 Favorites can be sorted by name or status
